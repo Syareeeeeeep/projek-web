@@ -1,0 +1,16 @@
+Di projek kali ini rencana saya ialah
+
+Membuat website peminjaman buku
+Ide ini saya dapatkan melalui proses mak jleb tiba-tiba di kepala
+
+isi formnya meliputi:
+1. Nama lengkap
+2. Tanggal lahir
+3. Alamat
+4. Email
+5. Nomor handphone
+6. Judul buku yang dipinjam
+7. Jenis Kelamin
+8. Tanggal peminjaman
+
+Mungkin seperti ini dulu 19:04 9 November 2024

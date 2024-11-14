@@ -1,0 +1,5 @@
+nama peminjaman
+no telp peminjaman
+kode buku
+judul buku
+jaminan
